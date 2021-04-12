@@ -11,7 +11,7 @@ apt install zip -y
 
 pkg install wget -y
 
-git clone https://github.com/SirManishKumar/MNS-Ngrok
+git clone https://github.com/SirManishKumar/MNSNgrok
 
 chmod +x setup.sh
 
