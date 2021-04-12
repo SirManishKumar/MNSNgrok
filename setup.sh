@@ -24,9 +24,9 @@ echo -e $'\e[1;32m╭━━━━━ ━━━━━━ ━━━━━━ ━�
 echo -e $'\e[1;31m   Created By:- https://github.com/SirManishKumar/MNS-Ngrok  \e[0m'
 echo -e $'\e[1;31m     Follow On Twitter:- http://twtter.com/SirManishKumar  \e[0m'
 echo -e $'\e[1;32m╰━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━╯ \e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m        ----------------------------------------- \e[1;91m\e[0m'
-echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m       !!         Download Requirements         !!\e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m        ----------------------------------------- \e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
+echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m          !!         Download Requirements         !!\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
 echo ""
 termux-setup-storage
 apt install
@@ -51,9 +51,9 @@ echo -e $'\e[1;32m╭━━━━━ ━━━━━━ ━━━━━━ ━�
 echo -e $'\e[1;31m   Created By:- https://github.com/SirManishKumar/MNS-Ngrok  \e[0m'
 echo -e $'\e[1;31m     Follow On Twitter:- http://twtter.com/SirManishKumar  \e[0m'
 echo -e $'\e[1;32m╰━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━╯ \e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m        ----------------------------------------- \e[1;91m\e[0m'
-echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m       !!       Ngrok Rady To  Download         !!\e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m        ----------------------------------------- \e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
+echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m          !!       Ngrok Rady To  Download         !!\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
 echo ""
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip --no-check-certificate
 mv ngrok-stable-linux-arm.zip $HOME
@@ -76,9 +76,9 @@ echo -e $'\e[1;32m╭━━━━━ ━━━━━━ ━━━━━━ ━�
 echo -e $'\e[1;31m   Created By:- https://github.com/SirManishKumar/MNS-Ngrok  \e[0m'
 echo -e $'\e[1;31m     Follow On Twitter:- http://twtter.com/SirManishKumar  \e[0m'
 echo -e $'\e[1;32m╰━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━╯ \e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m        ----------------------------------------- \e[1;91m\e[0m'
-echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m       !!       Ngrok Rady To  Download         !!\e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m        ----------------------------------------- \e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
+echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m          !!       Ngrok Rady To  Download         !!\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
 echo ""
 echo -e $'\e[1;91m[\e[0m\e[1;33m *** \e[0m\e[1;96m]\e[0m\e[1;91m KEEP IN MIND YOU HAVE TO ENTER  \e[1;33m[ *** ]\e[0m'
 echo ""
@@ -102,8 +102,8 @@ echo -e $'\e[1;32m╭━━━━━ ━━━━━━ ━━━━━━ ━�
 echo -e $'\e[1;31m   Created By:- https://github.com/SirManishKumar/MNS-Ngrok  \e[0m'
 echo -e $'\e[1;31m     Follow On Twitter:- http://twtter.com/SirManishKumar  \e[0m'
 echo -e $'\e[1;32m╰━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━╯ \e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;96m\e[0m\e[1;92m        --------------------------------- \e[1;91m\e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;90m\e[0m\e[1;92m       !!    Installation Successfull   !!\e[1;91m\e[0m'
-echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;96m\e[0m\e[1;92m        --------------------------------- \e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;96m\e[0m\e[1;92m           --------------------------------- \e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;90m\e[0m\e[1;92m          !!    Installation Successfull   !!\e[1;91m\e[0m'
+echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;96m\e[0m\e[1;92m           --------------------------------- \e[1;91m\e[0m'
 sleep 4
 clear
