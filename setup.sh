@@ -71,8 +71,8 @@ echo -e $'\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m]\e[0m\e[1;96m      !!!        Ngr
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
 echo ""
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip --no-check-certificate
-mv ngrok-stable-linux-arm.zip $HOME
 unzip ngrok-stable-linux-arm.zip
+mv ngrok $HOME
 rm -rf ngrok-stable-linux-arm.zip
 clear
 echo ""
