@@ -1,4 +1,8 @@
 #!/bin/bash
+clear
+pkg install python -y
+pip install lolcat
+pkg install figlet
 echo ""
 clear
 echo -e "\e[1;31m   Contacting To Manish Kumar Chaturvedi Server Please Wait."
