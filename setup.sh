@@ -45,8 +45,8 @@ echo -e $'\e[1;31m     Follow On Twitter:- http://twtter.com/SirManishKumar  \e[
 echo -e $'\e[1;32m╰━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━━ ━━━━━╯ \e[0m'
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
 echo -e "\e[1;31m   Contacting To Manish Kumar Chaturvedi Server Please Wait."
-echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
 echo -e "\e[1;37m                 Connecting- sIRMANISHKUMAR"
+echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m           ----------------------------------------- \e[1;91m\e[0m'
 sleep .8
 clear
 echo ""
